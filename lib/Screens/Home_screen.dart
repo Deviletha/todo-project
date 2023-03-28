@@ -42,7 +42,6 @@ class _HomeState extends State<Home> {
 
           child: Icon(Icons.add),),
         body: Container(
-          //decoration: BoxDecoration(image: DecorationImage(fit:BoxFit.cover,image: NetworkImage('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&w=600'),),),
           child: Column(
             children: [
               ListView.builder(

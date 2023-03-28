@@ -15,10 +15,10 @@ class ToDoDatabase{
   void updateDatabase(){
     _mybox.put("TODOLIST", toDoList);
   }
-//
-// void deleteTask(int index) {
-//
-//     _mybox.delete(index);
-//
-// }
+
+void deleteTask(int index) {
+
+    _mybox.delete(index);
+
+}
 }
