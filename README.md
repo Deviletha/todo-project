@@ -1,16 +1,6 @@
 # todo
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Output
+![Todo1](https://github.com/Deviletha/todo-project/assets/118511923/7a87f5e7-5d4d-46e2-83e9-015fbfe34a2d)
+![Todo2](https://github.com/Deviletha/todo-project/assets/118511923/60663c69-4338-468b-9a51-d3397e6b8803)
+![Todo3](https://github.com/Deviletha/todo-project/assets/118511923/e21d66b1-988b-4cb1-a26e-e097df4aff7b)
